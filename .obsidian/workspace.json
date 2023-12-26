@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94c64bb66fb15d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git测试上传.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test文件.md",
+                "file": "git测试上传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test文件.md",
+                "file": "git测试上传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test文件.md"
+                "file": "git测试上传.md"
               }
             }
           }
@@ -155,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca64bc3ea13adf51",
+  "active": "94c64bb66fb15d49",
   "lastOpenFiles": [
-    "新建文件夹",
-    "Test文件.md"
+    "Test文件.md",
+    "git测试上传.md",
+    "新建文件夹"
   ]
 }
